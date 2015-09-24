@@ -1,0 +1,8 @@
+{
+  "appDescription": {
+    "message": "Open godoc.org of current page."
+  },
+  "pageActionTitle": {
+    "message": "Open godoc.org"
+  }
+}
