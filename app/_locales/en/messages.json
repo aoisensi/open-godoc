@@ -4,5 +4,8 @@
   },
   "pageActionTitle": {
     "message": "Open godoc.org"
+  },
+  "optionAllowCheckExist": {
+    "message": "Access godoc.org to check exist document."
   }
 }

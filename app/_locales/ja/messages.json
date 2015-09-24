@@ -4,5 +4,8 @@
   },
   "pageActionTitle": {
     "message": "godoc.orgで開く"
+  },
+  "optionAllowCheckExist": {
+    "message": "ドキュメントが存在するか確認するためにgodoc.orgにアクセスする。"
   }
 }

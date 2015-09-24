@@ -1,7 +1,7 @@
 {
   "name": "Open godoc.org",
   "short_name": "Open godoc.org",
-  "version": "0.1.0.0",
+  "version": "0.2.0.0",
   "manifest_version": 2,
   "description": "__MSG_appDescription__",
   "icons": {
@@ -22,13 +22,13 @@
     },
     "default_title": "__MSG_pageActionTitle__"
   },
-  "options_page": "options.html",
   "options_ui": {
     "page": "options.html",
     "chrome_style": true
   },
   "permissions": [
     "tabs",
+    "storage",
     "http://godoc.org/*"
   ],
   "author": "aoisensi",
