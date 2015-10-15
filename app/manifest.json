@@ -1,7 +1,7 @@
 {
   "name": "Open godoc.org",
   "short_name": "Open godoc.org",
-  "version": "0.2.0.0",
+  "version": "0.2.0.4",
   "manifest_version": 2,
   "description": "__MSG_appDescription__",
   "icons": {
@@ -29,7 +29,8 @@
   "permissions": [
     "tabs",
     "storage",
-    "http://godoc.org/*"
+    "http://godoc.org/*",
+    "https://godoc.org/*"
   ],
   "author": "aoisensi",
   "homepage_url": "http://github.com/aoisensi/open-godoc"
